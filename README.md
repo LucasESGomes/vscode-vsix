@@ -50,7 +50,7 @@ Este repositório contém meu arquivo pessoal de configurações do VSCode (`set
 4. Instale os temas recomendados:
    - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
    - [Field Lights](https://marketplace.visualstudio.com/items?itemName=naumovs.theme-field-lights)
-   - (Opcional) Fonte [Dank Mono](https://dank.sh/) (paga) ou mantenha **Cascadia Code** (grátis).
+   - Fonte **Cascadia Code** 
 
 ---
 
