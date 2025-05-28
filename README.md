@@ -34,7 +34,8 @@ Este repositório contém meu arquivo pessoal de configurações do VSCode (`set
 
 ## 📸 Preview do Layout
 
-> _Adicione aqui prints do seu VSCode com esse setup._
+> _![image](https://github.com/user-attachments/assets/f123b848-7872-4131-8442-3936c51ef170)
+._
 
 ---
 
