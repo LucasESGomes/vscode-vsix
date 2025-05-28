@@ -1,6 +1,6 @@
 {
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
+    "workbench.colorTheme": "Field Lights",
     "editor.cursorBlinking": "phase",
     "editor.fontFamily": "Cascadia Code",
     "editor.fontSize": 16,
@@ -10,7 +10,6 @@
     "workbench.statusBar.visible": false,
     "symbols.hidesExplorerArrows": true,
     "workbench.editor.showTabs": "single",
-    "workbench.activityBar.location": "hidden",
     "editor.minimap.enabled": false,
     "breadcrumbs.enabled": false,
     "workbench.sideBar.location": "right",
@@ -29,11 +28,12 @@
     "workbench.navigationControl.enabled": false,
     "workbench.layoutControl.enabled": false,
     "custom-ui-style.font.sansSerif": "Dank Mono",
-    "editor.lineHeight": 1.8,
+    "editor.lineHeight": 1.5,
     "editor.codeLens": false,
     "scm.diffDecorations": "none",
     "editor.guides.indentation": false,
     "editor.renderLineHighlight": "none",
     "workbench.tips.enabled": false,
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "workbench.activityBar.location": "bottom"
 }
