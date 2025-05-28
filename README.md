@@ -43,7 +43,7 @@ Este repositório contém meu arquivo pessoal de configurações do VSCode (`set
 
 1. Vá em `Arquivo` → `Preferências` → `Configurações` → clique no ícone de arquivo no canto superior direito para abrir em JSON.
 
-2. Copie o conteúdo do arquivo [`settings.json`](./settings.json) deste repositório.
+2. Copie o conteúdo do arquivo [`user-json`](./user-json) deste repositório.
 
 3. Cole no seu arquivo de configurações do VSCode.
 
