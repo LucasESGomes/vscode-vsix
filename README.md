@@ -1,4 +1,4 @@
-# ⚙️ VSCode User Settings - [Lucas Gomes]
+# ⚙️ VSCode User Settings
 
 🎨 **Meu setup personalizado para o Visual Studio Code**, focado em produtividade, minimalismo e estética limpa.
 
